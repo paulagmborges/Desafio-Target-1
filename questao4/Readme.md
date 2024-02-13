@@ -8,3 +8,7 @@ ES – R$27.165,48
 Outros – R$19.849,53
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidor.
+
+Instruções:
+1.Entre na pasta do exercício questão4 e depois no arquivo `index.js`.
+2.Rode no terminal o comando `node .\index.js`.

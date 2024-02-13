@@ -4,3 +4,12 @@
 
 IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código
+
+Instruções:
+Este repositório contém um exercício simples que combina HTML e JavaScript.
+
+## Como Executar
+
+Para executar este exercício, siga estas etapas:
+1. Abra o arquivo `index.html` em seu navegador da web. Você pode fazer isso clicando com o botão direito do mouse no arquivo `index.html` e selecionando "Abrir com" e, em seguida, escolhendo seu navegador preferido.
+2. Interaja com a aplicação aberta no navegador para ver o funcionamento do exercício.
