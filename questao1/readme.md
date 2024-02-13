@@ -1,4 +1,4 @@
-##Questão 1- Descrição:
+## Questão 1- Descrição:
 
 Observe o trecho de código abaixo:
 
@@ -12,7 +12,7 @@ SOMA = SOMA + K;
 
 imprimir(SOMA);
 
-Ao final do processamento, qual será o valor da variável SOMA?
+Ao final do processamento, qual será o valor da variável SOMA?<br>
 Resp:91
 
 Instruções:
