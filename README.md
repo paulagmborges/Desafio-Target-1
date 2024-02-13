@@ -1,6 +1,6 @@
 
 # Desafio-Target-1
- 👉 Reposítório criado para o desafio técnico da empresa Target Sistemas para a vaga de Estágio Desenvolvedora (Vaga afirmativa Feminina) - São Paulo.
+ 👉 Repositório criado para o desafio técnico da empresa Target Sistemas para a vaga de Estágio Desenvolvedora (Vaga afirmativa Feminina).
  
 👉Instruções:
 1. Clone o repositório :
