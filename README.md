@@ -6,7 +6,7 @@
 1. Clone o repositório :
    
 ```command
-git clone git@github.com:paulagmborges/Desafio-Target-1.git
+git clone git@github.com:paulagmborges/Desafio-target.git
 ````
 
 2- Cada exercício tem um Readme explicando como executar: 
